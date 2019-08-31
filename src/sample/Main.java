@@ -9,7 +9,7 @@ import javafx.stage.Stage;
 public class Main extends Application {
 
     String version = " 1.0.0 ";
-    String author = "Fernando.Balandran@nabors.com";
+    String author = "Fernando Balandran";
 
     @Override
     public void start(Stage primaryStage) throws Exception{
